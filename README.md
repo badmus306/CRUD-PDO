@@ -16,6 +16,19 @@
 
 ### Homepage
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Homepage](crud00p1.jpeg?raw=true "Title")
+
+## Edit Page
+
+![Edit Page](crrud002.jpeg?raw=true "Title")
+
+
+## Add Page 
+
+![Add Page](crud004.jpeg?raw=true "Title")
+
+## Delete Page
+
+![Delete Page](crud003.jpeg?raw=true "Title")
 
 
