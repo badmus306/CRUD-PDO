@@ -16,17 +16,17 @@
 
 ### Homepage
 
-![Homepage](screenshot/screenshot1.png?raw=true "Title")
+![Homepage](screenshot/Screenshot_1.png?raw=true "Title")
 
 ## Edit Page
 
-![Edit Page](crrud002.jpeg?raw=true "Title")
+![Edit Page](screenshot/Screenshot_2.png?raw=true "Title")
 
 
 ## Add Page 
 
-![Add Page](crud004.jpeg?raw=true "Title")
+![Add Page](screenshot/Screenshot_3.png?raw=true "Title")
 
 ## Delete Page
 
-![Delete Page](crud003.jpeg?raw=true "Title")
+![Delete Page](screenshot/Screenshot_4.png?raw=true "Title")
