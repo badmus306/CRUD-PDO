@@ -2,7 +2,7 @@
 ## Table of Contents
 
 * [Setup](https://github.com/badmus306/CRUD-PDO#setup)
-* [Screenshots](https://github.com/badmus306/CRUD-PDO#screenshots)
+* [Screenshots](https://github.com/badmus306/CRUD-PDO#screenshot)
 * [Developer](https://github.com/badmus306/CRUD-PDO#developer)
 
 ## Setup
