@@ -1,5 +1,5 @@
 # CRUD-PDO
-## Table of Contents
+## Table of Contents...
 
 * [Setup](https://github.com/badmus306/CRUD-PDO#setup)
 * [Screenshots](https://github.com/badmus306/CRUD-PDO#screenshot)
